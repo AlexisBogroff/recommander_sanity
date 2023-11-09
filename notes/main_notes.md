@@ -1,9 +1,9 @@
 # Notes
 
-## Reflexions
+## Thoughts
 - [ ] Define [subjects](#subjects-of-interest) of interest to infer the sources
 - [ ] Define the [sources](#sources)
-- [ ] Define the [steps of the process](#reflexions)
+- [ ] Define the [steps of the process](#thoughts)
 - [ ] Define the [steps of the code](#overview-of-the-steps)
 - [ ] Define the [database systems](#data-base-systems)
 - [ ] SOTA recommender systems papers
