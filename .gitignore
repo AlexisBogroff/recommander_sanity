@@ -164,4 +164,7 @@ cython_debug/
 *.ai
 
 #data
-*.csv
+/assets/data/*
+
+# IDE
+.vscode/
