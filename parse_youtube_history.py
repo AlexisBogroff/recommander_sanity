@@ -19,7 +19,7 @@ class Parser:
 
     def get_data_from_file(self, path) -> str:
         """ Get data from file """
-        with open(path, 'r') as f:
+        with open(path, 'r', encoding='utf-8') as f:
             data = f.read()
         return data
 
